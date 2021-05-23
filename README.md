@@ -111,7 +111,7 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/ashutosh786palhare/github-readme-stats"><img alt="Ashutosh Palhare's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashutosh786palhare&show_icons=true&count_private=true&hide=" /></a>
+  <a href="https://github.com/ashutosh786palhare/github-readme-stats"><img alt="Ashutosh Palhare's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashutosh786palhare&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /></a>
 </details>
 
 <details> 
@@ -129,11 +129,7 @@
   <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-2. 🗣 Commented on [#43](https://github.com/DenverCoder1/jct-discord-bot/issues/43) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-3. 🎉 Merged PR [#44](https://github.com/DenverCoder1/jct-discord-bot/pull/44) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-4. ❗️ Closed issue [#42](https://github.com/DenverCoder1/jct-discord-bot/issues/42) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
-5. 💪 Opened PR [#44](https://github.com/DenverCoder1/jct-discord-bot/pull/44) in [DenverCoder1/jct-discord-bot](https://github.com/DenverCoder1/jct-discord-bot)
+
 <!--END_SECTION:activity-->
 
 </details>
