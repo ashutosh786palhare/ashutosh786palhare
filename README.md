@@ -1,102 +1,99 @@
-<h1 align="center">HI THERE! WELCOME TO MY GITHUB PROFILE 👋</h1>
-
-<img align="center" src="https://user-images.githubusercontent.com/73097560/102242602-316d5f00-3f35-11eb-8bfa-bab9ccf25ae9.png">
-
 <p align="center">
-:octocat:<a href="https://github.com/vinzvinci/code-with-me"><img src="https://img.shields.io/badge/-I'm%20craving%20for%20Open%20Source-green?style=for-the-badge&logo=github"></a>:octocat:
+  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+</p>
+<br>
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+ </p>
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-26-blue" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
+<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+<p align="center">
+<a href="https://www.hackerrank.com/OvinduWijethunge" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ovinduwijethunge/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.kaggle.com/ovinduwijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ovindu_vesuvius/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ovindu.wijethunge.7/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
+ <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+</p>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=OPEN%20SOURCE%20FOR%20THE%20WIN!;Join%20EddieHub%20Community;Collaboration%201st,%20Code%202nd.;Community%20make%20things%20easier;You%20don't%20have%20to%20be%20an%20expert%20to%20teach;Let's%20support%20each%20other;&center=true&width=470&height=45"></a>
-</p>
+
 
 <p align="center">
-<a href="https://web.facebook.com/Vintus.Pro1/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://www.instagram.com/vinzvinci/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://twitter.com/vinzvinci"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vinzvinci/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://vinzvinci.github.io/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCjA75ni_WO_AoyWsLxnnwjA"><img alt="Surpath YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <em>
+    Hello, I am Ovindu Wijethunge a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>University Of Moratuwa</b>, Sri-Lanka (" Wisdom is all wealth ")</a>. <br>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
+<br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<!--Trap--:)-->
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-<h2 align="center">About me</h2>
-<p align="center">
-Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pronouns are he/him/his. I'm 2nd year college and currently pursuing a Bachelor of Science in Information System in the Philippines. I'm following these tech stack: ReactJS, Django & some DevOps while doing what I love which is contributing to the different open-source projects and actively helping different communities.
-</p>
+✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
+✔ I’m currently learning about **deep learning**🥰<br>
+✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
+✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+ 
 
-<hr />
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<p align="left">
+  
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
+  <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
+  <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
+  <hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
 
-<h2 align="center">Current Roles</h2>
-<table>
-  <tr>
-    <th><a href="https://twitter.com/eddiejaoude/status/1380622246432153601?s=19"><img src="https://img.shields.io/badge/GitHub Campus Expert 🚩-FF0000?style=for-the-badge&logo=github&logoColor=white" width="350px" height="30px"></a></th>
-    <th><a href="https://github.com/SurPathHub"><img src="https://img.shields.io/badge/Founder at SurPath Hub ⚫-100000?style=for-the-badge&logo=github&logoColor=white" height="34px"></a></th>
-    <th><a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://img.shields.io/badge/Microsoft Learn Student Ambassador-003399?style=for-the-badge&logo=windows-xp&logoColor=white" height="30px"></a></th>
-  </tr>
-  <table>
-  <tr>
-    <td align="center">These roles make me more motivated to continue what I love and help more people in different communities and also encourage me to create my own community to support my peers in the Philippines.</td>
-  </tr>
-  </table>
-</table>
+<hr>
 
-<hr />
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <strong> :octocat: I'm proud to be part of these organisations :octocat: </strong><br>
-      <table>
-        <tr>
-          <td align="center">
-            <a href="https://github.com/SurPathHub">
-              <img src="https://avatars3.githubusercontent.com/u/75564428?s=150&v=4" />
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://github.com/EddieHubCommunity">
-              <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" />
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td align="center">
-      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=vinzvinci&count_private=true&theme=radical&show_icons=true" />
-    </td>
-  </tr>
-  <tr>
-          <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinzvinci&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
-          </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinzvinci&theme=radical">
-    </td>
-  </tr>
-</table>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
 
-<details><summary>Recent Activity :octocat:</summary>
 
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#369](https://github.com/Jayshah6699/datascience-mashup/issues/369) in [Jayshah6699/datascience-mashup](https://github.com/Jayshah6699/datascience-mashup)
-2. 🗣 Commented on [#56](https://github.com/kaiwalyakoparkar/sense-hacker/issues/56) in [kaiwalyakoparkar/sense-hacker](https://github.com/kaiwalyakoparkar/sense-hacker)
-3. ❗️ Opened issue [#24](https://github.com/Creatoon/Jar-web-app/issues/24) in [Creatoon/Jar-web-app](https://github.com/Creatoon/Jar-web-app)
-4. ❗️ Opened issue [#21](https://github.com/Creatoon/Jar-web-app/issues/21) in [Creatoon/Jar-web-app](https://github.com/Creatoon/Jar-web-app)
-5. 🗣 Commented on [#49](https://github.com/kaiwalyakoparkar/sense-hacker/issues/49) in [kaiwalyakoparkar/sense-hacker](https://github.com/kaiwalyakoparkar/sense-hacker)
-<!--END_SECTION:activity-->
-</details>
+-----
+Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
 
-<details><summary>Shout out and thank you to these awesome people 🏆✨</summary>
-    - <a href="https://github.com/eddiejaoude">Eddie Jaoude</a><br /> 
-    - <a href="https://github.com/nhcarrigan">Nicholas Carrigan</a><br />
-    - <a href="https://github.com/DenverCoder1">Jonah Lawrence</a><br />
-    - <a href="https://github.com/juanpflores">Juan Pablo Flores</a><br />
-    - <a href="https://twitter.com/iampablo?lang=en">Pablo Veramendi</a>
-</details>
+Last Edited on: 17/04/2021
 
-<details><summary>Stargazers ⭐</summary>
-<a href="https://github.com/vinzvinci/vinzvinci/stargazers"><img src="https://reporoster.com/stars/vinzvinci/vinzvinci"></a>
-</details>
+
+
+
+
