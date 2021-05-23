@@ -33,8 +33,7 @@
 ✔ Fun fact : *I know different programming languages ​​but I am not perfect in any programming language* 😎<br><br><br><br>
  
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools & Languages...***
-<p align="center">
+<hr>
   
  <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>My working tools & Languages...</b></i></p>
@@ -70,7 +69,7 @@
 <br>
 
  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <!-- https://github.com/ashutosh786palhare/github-readme-stats -->
 <details>
