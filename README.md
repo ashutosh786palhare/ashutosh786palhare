@@ -1,27 +1,102 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Palhare</h1>
-<h3 align="center">Developer by Profession, Ethical Hacker by Soul, Multi Talented by Brain and Photographer by Heart. Tea over coffee and class over swag. I am all Rounder wink</h3>
+<h1 align="center">HI THERE! WELCOME TO MY GITHUB PROFILE 👋</h1>
 
-- 🌱 I’m currently learning **everything**
+<img align="center" src="https://user-images.githubusercontent.com/73097560/102242602-316d5f00-3f35-11eb-8bfa-bab9ccf25ae9.png">
 
-- 📝 I regularly write articles on [ashutosh786palhare.tk](ashutosh786palhare.tk)
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **ashutoshpalhare@aol.com**
-
-- 📄 Know about my experiences [ashutosh786palhare.tk](ashutosh786palhare.tk)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ashutoshpalhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="ashutoshpalhare" height="30" width="40" /></a>
-<a href="https://fb.com/ashutosh786palhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="ashutosh786palhare" height="30" width="40" /></a>
-<a href="https://instagram.com/ashutosh786palhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="ashutosh786palhare" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ashutosh786palhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="ashutosh786palhare" height="30" width="40" /></a>
+<p align="center">
+:octocat:<a href="https://github.com/vinzvinci/code-with-me"><img src="https://img.shields.io/badge/-I'm%20craving%20for%20Open%20Source-green?style=for-the-badge&logo=github"></a>:octocat:
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=OPEN%20SOURCE%20FOR%20THE%20WIN!;Join%20EddieHub%20Community;Collaboration%201st,%20Code%202nd.;Community%20make%20things%20easier;You%20don't%20have%20to%20be%20an%20expert%20to%20teach;Let's%20support%20each%20other;&center=true&width=470&height=45"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh786palhare&show_icons=true&locale=en&layout=compact" alt="ashutosh786palhare" /></p>
+<p align="center">
+<a href="https://web.facebook.com/Vintus.Pro1/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/vinzvinci/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://twitter.com/vinzvinci"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vinzvinci/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://vinzvinci.github.io/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCjA75ni_WO_AoyWsLxnnwjA"><img alt="Surpath YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh786palhare&show_icons=true&locale=en" alt="ashutosh786palhare" /></p>
+<!--Trap--:)-->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<h2 align="center">About me</h2>
+<p align="center">
+Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pronouns are he/him/his. I'm 2nd year college and currently pursuing a Bachelor of Science in Information System in the Philippines. I'm following these tech stack: ReactJS, Django & some DevOps while doing what I love which is contributing to the different open-source projects and actively helping different communities.
+</p>
+
+<hr />
+
+<h2 align="center">Current Roles</h2>
+<table>
+  <tr>
+    <th><a href="https://twitter.com/eddiejaoude/status/1380622246432153601?s=19"><img src="https://img.shields.io/badge/GitHub Campus Expert 🚩-FF0000?style=for-the-badge&logo=github&logoColor=white" width="350px" height="30px"></a></th>
+    <th><a href="https://github.com/SurPathHub"><img src="https://img.shields.io/badge/Founder at SurPath Hub ⚫-100000?style=for-the-badge&logo=github&logoColor=white" height="34px"></a></th>
+    <th><a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://img.shields.io/badge/Microsoft Learn Student Ambassador-003399?style=for-the-badge&logo=windows-xp&logoColor=white" height="30px"></a></th>
+  </tr>
+  <table>
+  <tr>
+    <td align="center">These roles make me more motivated to continue what I love and help more people in different communities and also encourage me to create my own community to support my peers in the Philippines.</td>
+  </tr>
+  </table>
+</table>
+
+<hr />
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <strong> :octocat: I'm proud to be part of these organisations :octocat: </strong><br>
+      <table>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/SurPathHub">
+              <img src="https://avatars3.githubusercontent.com/u/75564428?s=150&v=4" />
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://github.com/EddieHubCommunity">
+              <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="center">
+      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=vinzvinci&count_private=true&theme=radical&show_icons=true" />
+    </td>
+  </tr>
+  <tr>
+          <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinzvinci&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+          </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinzvinci&theme=radical">
+    </td>
+  </tr>
+</table>
+
+<details><summary>Recent Activity :octocat:</summary>
+
+<!--START_SECTION:activity-->
+1. ❗️ Opened issue [#369](https://github.com/Jayshah6699/datascience-mashup/issues/369) in [Jayshah6699/datascience-mashup](https://github.com/Jayshah6699/datascience-mashup)
+2. 🗣 Commented on [#56](https://github.com/kaiwalyakoparkar/sense-hacker/issues/56) in [kaiwalyakoparkar/sense-hacker](https://github.com/kaiwalyakoparkar/sense-hacker)
+3. ❗️ Opened issue [#24](https://github.com/Creatoon/Jar-web-app/issues/24) in [Creatoon/Jar-web-app](https://github.com/Creatoon/Jar-web-app)
+4. ❗️ Opened issue [#21](https://github.com/Creatoon/Jar-web-app/issues/21) in [Creatoon/Jar-web-app](https://github.com/Creatoon/Jar-web-app)
+5. 🗣 Commented on [#49](https://github.com/kaiwalyakoparkar/sense-hacker/issues/49) in [kaiwalyakoparkar/sense-hacker](https://github.com/kaiwalyakoparkar/sense-hacker)
+<!--END_SECTION:activity-->
+</details>
+
+<details><summary>Shout out and thank you to these awesome people 🏆✨</summary>
+    - <a href="https://github.com/eddiejaoude">Eddie Jaoude</a><br /> 
+    - <a href="https://github.com/nhcarrigan">Nicholas Carrigan</a><br />
+    - <a href="https://github.com/DenverCoder1">Jonah Lawrence</a><br />
+    - <a href="https://github.com/juanpflores">Juan Pablo Flores</a><br />
+    - <a href="https://twitter.com/iampablo?lang=en">Pablo Veramendi</a>
+</details>
+
+<details><summary>Stargazers ⭐</summary>
+<a href="https://github.com/vinzvinci/vinzvinci/stargazers"><img src="https://reporoster.com/stars/vinzvinci/vinzvinci"></a>
+</details>
