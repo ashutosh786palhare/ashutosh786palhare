@@ -14,7 +14,7 @@
 
 <p align="center">
   <em>
-   Developer by Profession, Ethical Hacker by Soul, Multi Talented by Brain and Photographer by Heart. Tea over coffee and class over swag. I am all Rounder wink <br>
+   Developer by Profession, Ethical Hacker by Soul, Multi Talented by Brain and Photographer by Heart. Tea over coffee and class over swag. <br> I am all Rounder wink <br> <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b> Computer Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
@@ -31,33 +31,75 @@
 ✔ I’m currently learning **Everything**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+✔ Fun fact : *I know different programming languages ​​but I am not perfect in any programming language* 😎<br><br><br><br>
  
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools & Languages...***
 <p align="left">
   
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
-  <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
+ <table>
+    <tbody>
+        <tr>
+            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+            </td>
+            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+            </td>
+            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+            </td>
+            <td><a href="#"><img alt="PHP" title="PHP" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Python" title="Python" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="#"><img alt="C++" title="C++" height="28px"
+                        src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
+            <td><a href="#"><img alt="C#" title="C#" height="28px"
+                        src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a></td>
+            <td><a href="#"><img alt="Java" title="Java" height="28px"
+                        src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
+            <td><a href="#"><img alt="Kotlin" title="Kotlin" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
+                        src="https://img.icons8.com/color/48/000000/flutter.png" /></a></td>
+        </tr>
+        <tr>
+            <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
+            </td>
+            <td><a href="#"><img alt="SQL" title="SQL" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Sheets" title="Sheets" height="28px"
+                        src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a></td>
+            <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
+                        src="https://i.imgur.com/eO5z1xV.png" /></a></td>
+            <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
+                        src="https://i.imgur.com/DZgetVv.png" /></a>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
+                        src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
+            <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
+                        src="https://i.imgur.com/6nJGNMN.png" /></a></td>
+            <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
+                        src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
+            <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
+                        src="https://i.imgur.com/UfBWFbP.png" /></a></td>
+        </tr>
+    </tbody>
+</table>
+
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
