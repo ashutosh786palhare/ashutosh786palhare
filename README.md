@@ -14,7 +14,7 @@
 
 <p align="center">
   <em>
-   Developer by Profession, Ethical Hacker by Soul, Multi Talented by Brain and Photographer by Heart. Tea over coffee and class over swag. <br> I am all Rounder wink <br> <br>
+   Developer by Profession, Ethical Hacker by Soul, Multi Talented by Brain and Photographer by Heart. <br> Tea over coffee and class over swag. <br> I am all Rounder wink <br> <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b> Computer Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
@@ -35,7 +35,7 @@
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools & Languages...***
-<p align="left">
+<p align="center">
   
  <table>
     <tbody>
