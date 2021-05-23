@@ -103,9 +103,11 @@
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh786palhare&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p> <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh786palhare&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p> 
+<br> <br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ashutosh786palhare&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+
+<br><br>
 
 <hr>
 
