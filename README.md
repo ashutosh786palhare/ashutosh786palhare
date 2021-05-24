@@ -62,7 +62,7 @@
 <code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></code>
 <code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></code>
-<code><img height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/visualstudio/visualstudio-plain.svg
 "></code>
 <br/>
 
