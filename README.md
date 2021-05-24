@@ -13,7 +13,7 @@
 
 <p align="center">
   <em>
-   Developer by Profession, Ethical Hacker by Soul, Multi Talented by Brain and Photographer by Heart. <br> Tea over coffee and class over swag. <br> I am all Rounder wink <br> <br>
+   Developer by Profession, Ethical Hacker by Soul, Multi Talented by Brain and Photographer by Heart. <br> Tea over coffee and class over swag. <br> I am all Rounder :sunglasses: <br> <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b> Computer Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
@@ -25,9 +25,9 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***He/His*** or ***AP*** 😊 <br>
+✔ Callme: ***AP*** 😊 <br>
 ✔ I’m currently Developing a own assistance Like JARVIS using **Python**<br>
-✔ I’m currently learning **Everything**🥰<br>
+✔ I’m currently learning **Everything**:grin:<br>
 ✔ I’m looking to collaborate with any **Open - Source projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I know different programming languages ​​but I am not perfect in any programming language* 😎<br><br><br><br>
