@@ -96,8 +96,8 @@
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
   <summary>⚡ Top Repositories </summary>
-<a href="https://github.com/ashutosh786palhare/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh786palhare&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/ashutosh786palhare/Termy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh786palhare&repo=Termy&theme=buefy" />
 </a>
 <a href="https://github.com/ashutosh786palhare/ashutosh786palhare.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh786palhare&repo=ashutosh786palhare.github.io&theme=buefy" />
