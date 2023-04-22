@@ -18,7 +18,7 @@
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is Joke & we are Jokers !”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "If at first you don't succeed, call it version 1.0."</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
@@ -30,7 +30,7 @@
 ✔ I’m currently learning **Everything**:grin:<br>
 ✔ I’m looking to collaborate with any **Open - Source projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I know different programming languages ​​but I am not perfect in any programming language* 😎<br><br><br><br>
+✔ Fun fact : *The shortest complete sentence in the English language is "I am."* 😎<br><br><br><br>
  
 
 <hr>
@@ -95,12 +95,16 @@
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
+  <summary>⚡ Top Repositories </summary>
+<a href="https://github.com/ashutosh786palhare/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh786palhare&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/ashutosh786palhare/ashutosh786palhare.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh786palhare&repo=ashutosh786palhare.github.io&theme=buefy" />
+</a>
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<br />
+<br />
 
 </details>
 -----
@@ -111,8 +115,8 @@
 <p align="center">
   <a href="mailto:ap4all@aol.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://instagram.com/ashutosh786palhare"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/ashutosh.palhare.5"><img src="https://img.shields.io/badge/facebook-0000FF.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://in.linkedin.com/in/ashutosh-palhare-4433241b6"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/ashutosh786palhare"><img src="https://img.shields.io/badge/facebook-0000FF.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://in.linkedin.com/in/ashutosh786palhare"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/AshutoshPalhare"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
  <a href="https://ashutosh786palhare.github.io/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
 
