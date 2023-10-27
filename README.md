@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-<b>👋 Hey there, I'm Ashutosh Palhare, your friendly neighborhood Versatile Developer, with a knack for turning caffeine into code and securing the digital realm one byte at a time. 🚀</b>b>
+<b>👋 Hey there, I'm Ashutosh Palhare, your friendly neighborhood Versatile Developer, with a knack for turning caffeine into code and securing the digital realm one byte at a time. 🚀 </b>
 
 Ever since I was a wee coder, I've had an undying love affair with computers and mobiles. It's not just a crush; it's a full-blown romance! 💻📱
 
