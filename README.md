@@ -14,7 +14,7 @@
 <p align="center">
 <b>👋 Hey there, I'm Ashutosh Palhare, your friendly neighborhood Versatile Developer, with a knack for turning caffeine into code and securing the digital realm one byte at a time. 🚀 </b>
 
-Ever since I was a wee coder, I've had an undying love affair with computers and mobiles. It's not just a crush; it's a full-blown romance! 💻📱
+Ever since I was a wee coder, I've an undying love affair with computers and mobiles. It's not just a crush; it's a full-blown romance! 💻📱
 
 I've learned more programming languages than I can count. I've been busier than a one-armed programmer in a hex editor! 🔍💻.
 
@@ -24,6 +24,7 @@ I'm also a big fan of sci-fi movies, and I love to imagine the day when the fict
 
 My GitHub is the home to some of the digital masterpieces I've conjured. 💻
 </p>
+<hr>
 <br><br>
 <img align="right" width=300px height=300px alt="side_sticker" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
