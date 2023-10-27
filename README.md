@@ -41,7 +41,7 @@ My GitHub is the home to some of the digital masterpieces I've conjured. 💻
 <hr>
   
  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>My working tools & Languages...</b></i></p>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>My World</b></i></p>
  
 
   
