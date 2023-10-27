@@ -21,7 +21,7 @@
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "If at first you don't succeed, call it version 1.0."</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
 <br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
@@ -118,7 +118,7 @@
   <a href="https://www.facebook.com/ashutosh786palhare"><img src="https://img.shields.io/badge/facebook-0000FF.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://in.linkedin.com/in/ashutosh786palhare"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/AshutoshPalhare"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
- <a href="https://ashutosh786palhare.github.io/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
+ <a href="https://ashutosh786palhare.github.io/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
 </p>
 
