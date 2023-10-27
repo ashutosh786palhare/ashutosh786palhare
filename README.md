@@ -23,6 +23,7 @@ I'm also a big fan of sci-fi movies, and I love to imagine the day when the fict
 <b>I'm a versatile developer, which means I can do anything... but not very well. I'm a jack-of-all-trades, master of none. But I'm a fast learner, and I'm always up for a challenge. </b>
 
 My GitHub is the home to some of the digital masterpieces I've conjured. 💻
+</p>
 <br><br>
 <img align="right" width=300px height=300px alt="side_sticker" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
