@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ashutosh Palhare </h1>
-<h3 align="center">Developer | Ethical Hacker</h3>
+<h3 align="center">Versatile Developer | Cyber security enthusiast</h3>
 
  <p align="center">
-<img src="https://img.shields.io/badge/Age-22-blue" />
+<img src="https://img.shields.io/badge/Age-23-blue" />
   <img src="https://img.shields.io/badge/Focus-Python-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Hindi-brightgreen" />
@@ -12,14 +12,17 @@
 <br>
 
 <p align="center">
-  <em>
-   Developer by Profession, Ethical Hacker by Soul, Multi Talented by Brain and Photographer by Heart. <br> Tea over coffee and class over swag. <br> I am all Rounder :sunglasses: <br> <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b> Computer Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "If at first you don't succeed, call it version 1.0."</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</p>
+<b>👋 Hey there, I'm Ashutosh Palhare, your friendly neighborhood Versatile Developer, with a knack for turning caffeine into code and securing the digital realm one byte at a time. 🚀</b>b>
+
+Ever since I was a wee coder, I've had an undying love affair with computers and mobiles. It's not just a crush; it's a full-blown romance! 💻📱
+
+I've learned more programming languages than I can count. I've been busier than a one-armed programmer in a hex editor! 🔍💻.
+
+I'm also a big fan of sci-fi movies, and I love to imagine the day when the fictional technology we see on screen becomes a reality. 🚀
+
+<b>I'm a versatile developer, which means I can do anything... but not very well. I'm a jack-of-all-trades, master of none. But I'm a fast learner, and I'm always up for a challenge. </b>
+
+My GitHub is the home to some of the digital masterpieces I've conjured. 💻
 <br><br>
 <img align="right" width=300px height=300px alt="side_sticker" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
