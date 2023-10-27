@@ -25,7 +25,7 @@ I'm also a big fan of sci-fi movies, and I love to imagine the day when the fict
 My GitHub is the home to some of the digital masterpieces I've conjured. 💻
 </p>
 <hr>
-<br><br>
+<br>
 <img align="right" width=300px height=300px alt="side_sticker" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
