@@ -178,46 +178,7 @@ My GitHub is the home to some of the digital masterpieces I've conjured. 💻
 </div>
 
 ###
-<br><br>    
-
-<hr>
- 
-<br>
-
- <p align="center">
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<!-- https://github.com/ashutosh786palhare/github-readme-stats -->
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
-  <br/>
-  <a href="https://github.com/ashutosh786palhare/github-readme-stats"><img alt="Ashutosh Palhare's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashutosh786palhare&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /></a>
-</details>
-
-<details> 
-  <summary>💻 Most used languages</summary>
-  <br/>
-  <a href="https://github.com/ashutosh786palhare/github-readme-stats"><img alt="Ashutosh Palhare's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh786palhare&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" /></a>
-  <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-</details>
-
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Top Repositories </summary>
-<a href="https://github.com/ashutosh786palhare/Termy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh786palhare&repo=Termy&theme=buefy" />
-</a>
-<a href="https://github.com/ashutosh786palhare/ashutosh786palhare.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh786palhare&repo=ashutosh786palhare.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-</details>
------
+<br>    
 
 <hr>
  <p align="center">
