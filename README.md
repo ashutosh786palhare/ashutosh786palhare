@@ -34,8 +34,8 @@ My GitHub is the home to some of the digital masterpieces I've conjured. 💻
 ✔ I’m currently Developing a own assistance Like JARVIS using **Python**<br>
 ✔ I’m currently learning **Everything**:grin:<br>
 ✔ I’m looking to collaborate with any **Open - Source projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *The shortest complete sentence in the English language is "I am."* 😎<br><br><br><br>
+✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br><br>
+✔ Fun fact : *Why do programmers prefer dark mode? Because the light attracts bugs.* 😎<br><br><br><br>
  
 
 <hr>
